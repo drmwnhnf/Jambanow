@@ -472,6 +472,7 @@ function App() {
           <div className="text-[#1a2746] font-bold text-lg tracking-tight">Jambanow</div>
           <div className="text-xs text-gray-500 text-center md:text-right">
             &copy; {new Date().getFullYear()} Jambanow (MVP). Created by <span className="font-semibold">Kebelet Lulus Nilai Bagus</span> Team.<br />
+            Contact us via <span className="font-semibold">darmawanhaneef@gmail.com</span><br />
             Powered by React, Vite, Leaflet, and OpenStreetMap.
           </div>
         </div>
